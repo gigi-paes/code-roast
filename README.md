@@ -14,6 +14,8 @@ DevRoast e um analisador de qualidade de codigo que da uma nota brutalmente hone
 - **Sugestoes de fix** — veja um diff de como seu codigo poderia ficar com as melhorias aplicadas
 - **Shame leaderboard** — o pior codigo da internet, rankeado por vergonha. Veja como o seu se compara
 
+<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/e936cb6b-2950-4a20-bdb3-60725e390807" />
+
 ## Rodando o projeto
 
 ```bash
